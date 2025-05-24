@@ -17,3 +17,4 @@ To run this app, you should create a Django project and include this app in it.
 ## Usage
 
 This code is only for learning or integration into an existing Django project.
+
