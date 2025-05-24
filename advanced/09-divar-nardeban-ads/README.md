@@ -13,3 +13,7 @@
 ```sh
 pip install requests beautifulsoup4
 سپس:python main.py
+خروجی نمونه
+آگهی فروش آپارتمان در تهران
+اجاره سوئیت مبله
+...
